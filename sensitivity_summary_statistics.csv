@@ -1,0 +1,5 @@
+Parameter_Set,Mean_Population_Density,Std_Population_Density,Max_Population_Density,Min_Population_Density,Average_Change_Percent
+Base,0.280991,0.043470,0.324461,0.237522,0.000000
+Alpha1 +10%,0.281421,0.043536,0.324957,0.237885,0.152749
+Alpha2 -10%,0.279708,0.043271,0.322979,0.236437,-0.456837
+Fstar = 1.3,0.344018,0.053220,0.397238,0.290798,22.430007
